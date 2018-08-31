@@ -23,3 +23,6 @@ ssh-copy-id -i /Users/username/.ssh/id_rsa root@ip
 ```sh
 sudo spctl --master-disable
 ```
+
+## cydia 插件
+[ssl-kill-](https://github.com/nabla-c0d3/ssl-kill-switch2) 用来解决 ssl 验证问题
